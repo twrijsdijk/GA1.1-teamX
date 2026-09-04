@@ -8,3 +8,8 @@ multiply function added. This can be applicable when two values need to be multi
 EXAMPLE:
 multiply(3.1,6) shift+enter
 returns float 18.6
+
+Function sum_list(values) accepts a list of numbers and adds them all together. This function works by using the add(a,b) function.
+
+Example:
+sum_list([1,2,3,4]) will return 10 
