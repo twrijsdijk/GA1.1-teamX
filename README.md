@@ -8,3 +8,8 @@ multiply function added. This can be applicable when two values need to be multi
 EXAMPLE:
 multiply(3.1,6) shift+enter
 returns float 18.6
+
+EXAMPLE for Square extension function:
+Square(3)
+returns 9
+Explanation: It uses the multiply fuction and gives the result.
